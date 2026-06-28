@@ -1,0 +1,4 @@
+data/incoming/*
+.env
+__pycache__/
+venv/
