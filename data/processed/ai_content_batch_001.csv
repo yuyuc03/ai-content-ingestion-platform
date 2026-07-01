@@ -1,0 +1,6 @@
+external_id,title,author,published_at,url,content_type
+vid_001,How Sora Works: A Deep Dive,OpenAI Team,2026-01-15,https://example.com/sora,video
+vid_002,Runway Gen-3 vs Pika 2.0 Comparison,AI Reviewer,2026-01-16,https://example.com/runway,video
+vid_003,Building AI Video Pipelines at Scale,Jane Smith,2026-01-17,https://example.com/pipeline,article
+vid_004,Midjourney V7 First Look,Creative Lab,2026-01-18,https://example.com/midjourney,image
+vid_005,The Future of Generative AI in 2026,Tech Writer,2026-01-19,https://example.com/future,article
